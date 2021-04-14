@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//ReactDOM.render toma dos parametros: que va a mostrar y donde lo va a mostrar.
 ReactDOM.render(
   <React.StrictMode>
     <App />
